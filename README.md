@@ -6,6 +6,13 @@ Link for the Report-
 
 https://app.powerbi.com/view?r=eyJrIjoiODlmYjQxNzQtNzY1ZS00MzBhLWFjODEtZjFhNmUyYTQyMTYyIiwidCI6IjMwYjY1ZDEwLWUzODgtNDQyNS05MDI0LWE1M2Y2MWQzODg2YyJ9
 
+Link for dashboard screenshot video-
+
+
+
+
+https://drive.google.com/file/d/1UhhXrLqrRUHTvcdZPxNZaFlHwM6L5Fcv/view?usp=sharing
+
 
 
 Sales Analysis Dashboard (Power BI Project)
