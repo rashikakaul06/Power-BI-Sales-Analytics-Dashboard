@@ -1,11 +1,17 @@
 
 # Power-BI-Sales-Analytics-Dashboard
 Link for the Report- 
+
+
+
 https://app.powerbi.com/view?r=eyJrIjoiODlmYjQxNzQtNzY1ZS00MzBhLWFjODEtZjFhNmUyYTQyMTYyIiwidCI6IjMwYjY1ZDEwLWUzODgtNDQyNS05MDI0LWE1M2Y2MWQzODg2YyJ9
 
 
 
 Sales Analysis Dashboard (Power BI Project)
+
+
+
 🔹 Introduction
 
 This Power BI dashboard was developed to analyse sales and shipment performance using a dummy dataset. The goal of the project is to transform raw transactional data into meaningful insights through interactive visuals, DAX measures, and Power Query transformations.
